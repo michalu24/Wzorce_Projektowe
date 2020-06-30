@@ -1,6 +1,6 @@
 package _3_Factory;
 
-public class Cicle implements Shape {
+public class Circle implements Shape {
 
     @Override
     public void draw() {
