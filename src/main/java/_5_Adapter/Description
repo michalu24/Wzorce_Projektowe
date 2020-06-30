@@ -1,0 +1,5 @@
+Adapter pattern acts like a bridge between two separate interfaces,
+therefore a new functionality is created consists of two previous interfaces
+functionalities.
+
+https://www.tutorialspoint.com/design_pattern/adapter_pattern.htm

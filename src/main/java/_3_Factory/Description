@@ -1,0 +1,4 @@
+Factory pattern allows to use simplified creation of several
+similar element by implementing common interface. Therefore there
+is no need to refer to each class formally, instead we are using one
+simple interface.
